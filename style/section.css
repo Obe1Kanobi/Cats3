@@ -1,0 +1,28 @@
+body {
+  background-color: #f4e8de;
+}
+
+.create__flex {
+  display: flex;
+  flex-direction: column;
+  gap: 40px 0px;
+  padding-top: 24px;
+  padding-left: 12px;
+}
+
+.create__flex--name {
+  border: 1px solid #a77c5d;
+  border-radius: 8px;
+  width: 404px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
+
+.create__flex--text {
+  margin-left: 16px;
+}
+
+.create__flex--img {
+  margin-left: 293px;
+}

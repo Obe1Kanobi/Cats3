@@ -1,0 +1,14 @@
+.header__weight {
+  display: flex;
+  height: 56px;
+  background-color: rgba(167, 124, 93, 1);
+  align-items: center;
+}
+
+.header__weight--arrow {
+  margin-left: 11.25px;
+}
+
+.header__weight--title {
+  margin-left: 14px;
+}
